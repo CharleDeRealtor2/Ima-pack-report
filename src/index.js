@@ -1,9 +1,8 @@
-// src/index.js
-
+// index.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './styles.css'; // Optional, only if you created this file
+import './FormWrapper.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
